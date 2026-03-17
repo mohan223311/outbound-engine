@@ -605,9 +605,9 @@ export default function App() {
       
       {/* --- Navbar --- */}
       <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-brand-border py-4 px-4 md:px-12 flex justify-between items-center">
-        <div className="flex items-center gap-2">
-          <img src="/logo.png" alt="ProfitGrowthAI Logo" className="h-8 w-auto" />
-          <span className="text-lg md:text-xl font-extrabold tracking-tighter text-brand-text-heading">AI Outbound Engine</span>
+        <div className="flex items-center gap-3">
+          <img src="/logo.png" alt="Closr AI Logo" className="h-10 w-auto object-contain" />
+          <span className="text-xl font-extrabold tracking-tighter text-brand-text-heading">Closr AI</span>
         </div>
         <div className="hidden md:flex items-center gap-8">
           {['How It Works', 'Features', 'Results', 'Contact'].map(link => (
@@ -917,9 +917,9 @@ export default function App() {
       <footer className="bg-brand-offwhite border-t border-brand-border py-16 px-6 md:px-12">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-start">
           <div>
-            <div className="flex items-center gap-2 mb-6">
-              <img src="/logo.png" alt="ProfitGrowthAI Logo" className="h-8 w-auto" />
-              <span className="text-xl font-extrabold tracking-tighter text-brand-text-heading">AI Outbound Engine</span>
+            <div className="flex items-center gap-3 mb-6">
+              <img src="/logo.png" alt="Closr AI Logo" className="h-12 w-auto object-contain" />
+              <span className="text-2xl font-extrabold tracking-tighter text-brand-text-heading">Closr AI</span>
             </div>
             <p className="text-brand-text-body max-w-xs mb-6">Your leads. Called. Qualified. Booked.</p>
             <div className="flex items-center gap-4">
