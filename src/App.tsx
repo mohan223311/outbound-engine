@@ -655,7 +655,7 @@ export default function App() {
         </div>
         <div className="hero-video relative">
           <div className="bg-brand-offwhite p-2 rounded-2xl shadow-2xl border border-brand-border">
-            <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="AI Outbound Engine Demo" frameBorder="0" allowFullScreen className="w-full aspect-video rounded-xl grayscale-[0.2] hover:grayscale-0 transition-all"></iframe>
+            <iframe src="https://drive.google.com/file/d/1jNkNb93eTdakJn7BWIMcQVmdbZmRzw9yiuYSEQC-Qq8/preview" title="Closr AI Demo" frameBorder="0" allowFullScreen className="w-full aspect-video rounded-xl grayscale-[0.2] hover:grayscale-0 transition-all"></iframe>
           </div>
           <p className="text-center text-[10px] text-gray-500 mt-4 uppercase tracking-widest">↑ Watch a real AI call booking an appointment</p>
         </div>
